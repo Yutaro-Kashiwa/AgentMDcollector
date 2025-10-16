@@ -5,6 +5,9 @@ outputs/
 .env
 tokens.txt
 
+# Claude Code settings (local)
+.claude/settings.local.json
+
 # Python
 __pycache__/
 *.py[cod]
